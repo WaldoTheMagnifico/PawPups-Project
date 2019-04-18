@@ -27,4 +27,4 @@
 </ui>
 
 <h5>Pawpups URL</h5>
-<p>https://goodestboys20190417034609</p>
+<p>https://goodestboys20190417034609.azurewebsites.net/</p>
