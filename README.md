@@ -1,5 +1,3 @@
-<h7>Pawpups</h7>
-
 <p>Pawpups is a basic social networking application I am working on to further my understanding of how to intergate different technologies to host a web application from a cloud platform.  </p>
 
 <h6>User Statement</h6>
@@ -27,3 +25,6 @@
   <li>ASP.NET Framework</li>
   <li>MVC 5</li>
 </ui>
+
+<h5>Pawpups URL</h5>
+<p>https://goodestboys20190417034609</p>
