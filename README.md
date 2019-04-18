@@ -1,7 +1,7 @@
-<p>Pawpups is a basic social networking application I am working on to further my understanding of how to intergate different technologies to host a web application from a cloud platform.  </p>
+<p>Pawpups is a basic social networking application I am working on to further my understanding of how to integrate different technologies to host a web application from a cloud platform.  </p>
 
 <h6>User Statement</h6>
-<p>As a dog owner with almost no friends who wants to meet new firends who also have a dog, I need a platform to let people who have a dog know that I also have a dog and want to be firends.</p>
+<p>As a dog owner with almost no friends who wants to meet new friends who also have a dog, I need a platform to let people who have a dog know that I also have a dog and want to be friends.</p>
 
 <h5>Requirements Met:</h5>
 <ul>
